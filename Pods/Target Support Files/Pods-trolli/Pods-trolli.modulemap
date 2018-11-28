@@ -1,0 +1,6 @@
+module Pods_trolli {
+  umbrella header "Pods-trolli-umbrella.h"
+
+  export *
+  module * { export * }
+}

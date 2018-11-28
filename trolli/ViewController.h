@@ -7,9 +7,15 @@
 //
 
 #import <UIKit/UIKit.h>
-
-@interface ViewController : UIViewController
-
+@import Firebase;
+@interface ViewController : UIViewController{
+    IBOutlet UIButton *logInBtn,*joinUsBtn;
+    IBOutlet UIActivityIndicatorView *autoLoginIndicator;
+    
+}
+@property(nonatomic)IBOutlet UIActivityIndicatorView *autoLoginIndicator;
+@property (strong, nonatomic) FIRDatabaseReference *ref;
+@property(nonatomic)IBOutlet UIButton *logInBtn,*joinUsBtn;
 
 @end
 

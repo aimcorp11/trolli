@@ -7,7 +7,25 @@
 		<key>trolli.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>0</integer>
+			<integer>14</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>197699E121842A9B00FB1E30</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>197699F921842AAF00FB1E30</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>19769A0421842AAF00FB1E30</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
